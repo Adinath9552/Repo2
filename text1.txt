@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 548E-F75D
+
+ Directory of C:\Users\Aditya\Desktop\New folder
+
+09-11-2020  16:59    <DIR>          .
+09-11-2020  16:59    <DIR>          ..
+09-11-2020  16:59                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  498,099,392,512 bytes free
